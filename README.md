@@ -1,4 +1,4 @@
-# 🧮 C# Advanced – Assignment 02  
+ 
 
 ## 📖 Overview  
 This project contains a collection of practical exercises designed to strengthen understanding of **Data Structures**, **Collections**, and **Algorithmic Thinking** in **C#**.  
