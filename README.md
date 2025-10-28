@@ -136,6 +136,7 @@ Polymorphism with object
 Generic data handling
 
 What I Learned:
+
 How to design flexible collections that can store heterogeneous types.
 
 🎯 Question 10: Stack Search with Target Input
